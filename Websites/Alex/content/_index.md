@@ -3,20 +3,9 @@ title: "Alex Blake - Data Scientist @ Ecodata"
 sections:
 - block: about.avatar
   id: about
-  content:
-    # Choose a user profile to display (a folder name within `content/authors/`)
-    username: admin
-    # Override your profile text from `authors/admin/_index.md`?
-    text: |>
-      Hey! I'm **Alex**, a data nerd at Ecodata and a marine biologist in a former life. 🐟
-      {style="font-size: 1.2rem; color: #FFB76B;} 
 - block: markdown
   content:
-    text:
-    
-    Data scientist & consultant for multinational, government, and academic clients in the agriculture and environmental sectors. Biology PhD leveraging years of experience in hypothesis testing and modeling to pull cool stories from messy data. Previously worked on marine zooplankton, scorpion venoms, invasive weeds, environmental policy, wetland conservation, and the UK space sector.
-    
-    Main wheelhouse is R, but also experienced with SQL, Python, and dabbled in a handful of other languages. I do analysis on experiments with hypothesis tests, time series, and spatial data with tools like mixed models, GAMs, and ML to name a few; and storytelling with beautiful ggplots, animations, Shiny apps, PowerBI, and websites.
+    text: Data scientist & consultant for multinational, government, and academic clients in the agriculture and environmental sectors. Biology PhD leveraging years of experience in hypothesis testing and modeling to pull cool stories from messy data. Previously worked on marine zooplankton, scorpion venoms, invasive weeds, environmental policy, wetland conservation, and the UK space sector. Main wheelhouse is R, but also experienced with SQL, Python, and dabbled in a handful of other languages. I do analysis on experiments with hypothesis tests, time series, and spatial data with tools like mixed models, GAMs, and ML to name a few; and storytelling with beautiful ggplots, animations, Shiny apps, PowerBI, and websites.
   design:
     background:
       image:
