@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: CRB Demo Page # Website name
+title: Project Folio # Website name
 baseURL: 'https://alex-blake-does-data-science.netlify.app/' # Website URL
 
 ############################
